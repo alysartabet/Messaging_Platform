@@ -6,3 +6,7 @@ https://www.youtube.com/watch?v=fDnqXmLSqtg
 
 ^that's just a random tutorial i found...you need git and homebrew and andriod studio at least
 (it's for cross platform app building)
+
+
+Alr have git & homembrew, Flutter installed hehe 
+Learning DART next and getting android studio 
